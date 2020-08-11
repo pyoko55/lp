@@ -418,10 +418,10 @@ article{
 /* プロフィール */
 
   .profile-img{
-    height: 300px;
-    width: 400px;
+    height: 250px;
+    width: 300px;
   
-    margin-left: 50px;
+    margin-left: 10px;
     margin-top: 50px;
    
   }
