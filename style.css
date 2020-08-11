@@ -391,6 +391,15 @@ article{
    
 }
 
+   .button{
+    font-size: 1rem;
+    background: #072B48;
+    color: #fff;
+    border-radius: 5px;
+    padding: 18px 32px;
+    
+  
+}
 
   .contents-wrapper{
     display: block;
